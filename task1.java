@@ -9,7 +9,7 @@ public class task1 {
         System.out.println("Enter the no of (n):");
         int n = sc.nextInt();
 
-        System.out.println("Even no q to " + n + " are:");
+        System.out.println("Even no 1 to " + n + " are:");
 
         for(int i = 2; i <= n; i += 2) {
             System.out.println(i + " ");
